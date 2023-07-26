@@ -28,7 +28,6 @@ const daveGrades = [1, 2, 3, 2];
 const failGrades = [0, 1, 3, 6];
 const moreGrades = [2, 3, 4, 4, 1, 2, 3, 4];
 
-
 function calculateGPA(studentGrades) {
     let gradeTotal = 0;
     let numOfGrades = studentGrades.length;
